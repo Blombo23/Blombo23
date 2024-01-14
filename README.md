@@ -4,6 +4,10 @@
 
 - 🔭 I’m currently working on python sniff network analyzer ...
 
+<h2>📄 Certifications  </h2>
+
+- [Foundations of Cybersecurity](https://coursera.org/share/70e0636bc2ebae0949b43d2b39f6fbef)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Blombo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
