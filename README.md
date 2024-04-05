@@ -4,6 +4,9 @@
 
 - [File permission Lab](https://github.com/Blombo23/File-Permission_Lab/blob/main/README.md)
 
+- [Apply filters to SQL queries](https://github.com/Blombo23/SQL_Lab)
+
+
 <h2>📄 Certifications  </h2>
 
 - [Foundations of Cybersecurity](https://coursera.org/share/70e0636bc2ebae0949b43d2b39f6fbef)
