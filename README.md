@@ -8,7 +8,7 @@
 
 <h2>🔍️ Forensic LAB:</h2>
 
-- 🔭 I’m currently working on ...
+- [Image investigation with wireshark](https://github.com/Blombo23/Image-Investigation-with-Wireshark)
 
 
 <h2>📄 Certifications  </h2>
