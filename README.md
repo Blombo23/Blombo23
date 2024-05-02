@@ -8,7 +8,7 @@
 
 <h2>🔍️ Forensic LAB:</h2>
 
-- [Image investigation with wireshark](https://github.com/Blombo23/Images-Investigation-with-Wireshark)
+- [Images investigation with wireshark](https://github.com/Blombo23/Images-Investigation-with-Wireshark)
 
 
 <h2>📄 Certifications  </h2>
