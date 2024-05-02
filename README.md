@@ -6,6 +6,10 @@
 
 - [Apply filters to SQL queries](https://github.com/Blombo23/SQL_Lab)
 
+<h2>🔍️ Forensic LAB:</h2>
+
+- 🔭 I’m currently working on ...
+
 
 <h2>📄 Certifications  </h2>
 
